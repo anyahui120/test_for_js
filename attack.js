@@ -1,4 +1,3 @@
-function attackEnemy() {
-    document.write("land on");
-    alert("ready go");
+function abc(str){
+    alert(str);
 }
